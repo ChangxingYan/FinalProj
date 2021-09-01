@@ -1,0 +1,125 @@
+idevent	speaker	text	nextevent	LastEventInSequence	textBoxPosition	timeSub	timeCut	imageAsset	audioAsset
+0	subtitle	It's snowing. Aster has to go.	1	N	0	3	3	1 - Aster - facingCameraLowerFace	
+1	subtitle	The smell in the air reminds her of an old friend.	0	Y	0	0	0	1 - Aster - facingCarriage	
+2	subtitle	A bunch of dried forget-me-not. She can't help but think of whoever forgets it here.	0	Y	0	0	0	2 - flowerBunch	
+3	QTE	take	2	Y	4	0	0		
+4	subtitle	She left the poor thing behind.	5	N	0	3	3	2 - flowerBunchHand	
+5	subtitle	Could it be something worthwhile, no one's going to leave it in the beginning, right?	0	Y	0	0	0	2 - Aster - lookingAtHerReflection	
+6	subtitle	They look cute. 	7	N	0	2	2	2 - puttingIntoBag	
+7	subtitle	She might throw it simewhere along the way, but that would be later.	0	Y	0	0	0	2 - puttingIntoBag	
+8	subtitle	Something caught onto her loose knit sweater. 	9	N	0	2	2	3 - keyCaughtInClothes	
+9	subtitle	she felt the freezingly cold wind slip through the carriage door.	0	Y	0	0	0	3 - keyCaughtInClothes	
+10	QTE	take	8	Y	4	0	0		
+11	subtitle	A metal gadget of mesmerizing weight and touch. 	12	N	0	3	3	3 - keyInHand	
+12	subtitle	A triangle is engraved deep into its one end.	0	Y	0	0	0	3 - keyInHand	
+13	subtitle	I have to go. she thought.	14	N	0	3	3	3 - takingTheKey	
+14	subtitle	I will leave here and never come back.	0	Y	0	0	0	3 - herThoughts	
+15	subtitle	It left a hole on her sweater. 	0	Y	0	2	2	3 - herThoughtOne	
+16	subtitle	A hole that never repairs itself. 	0	Y	0	0	0	3 - herThoughtTwo	
+17	subtitle	The carriage is not empty.	18	N	0	2	2	1 - Aster - facingCarriage	
+18	subtitle	A few black cracks on the floor are releasing a screechy noise.	0	Y	0	0	0	4 - blackPuddle	
+19	subtitle	If Nina was here, she would never let her touch them.	20	N	0	4	4	4 - NinaAndAster	
+20	subtitle	But she is not.	0	Y	0	3	3	4 - NinaAndAsterBlur	
+21	subtitle	She remembers her brown eyes and dark, stringy hair.	22	N	0	4	4	4 - Nina	
+22	subtitle	Nina. The name sounds almost alien.	0	Y	0	0	0	4 - Nina	
+23	subtitle	It's snowing. She has to go.	0	Y	0	0	0	2 - Aster - lookingAtHerReflection	
+24	subtitle	I offer you three secrets, after which I offer death. 	25	N	0	4	4	4 - deathEye	
+25	subtitle	The first secret is: "The only time one can leave here is when they lose everything."	0	Y	0	0	0	4 - deathEye	
+26	subtitle	The second secret is: "Winter kept us warm, covering Earth in forgetful snow."	0	Y	0	0	0	4 - deathEye	
+27	subtitle	The third secret is: "A dead woman send Aster a letter."	0	Y	0	0	0	4 - deathEye	
+28	QTE	take	29	N	4	0	0		
+29	subtitle	It's a piece of paper, with a clear-punched hole on the corner.	30	N	0	4	4	4.5 - page	
+30	subtitle	Probably comes from a small book.	0	Y	0	0	0	4.5 - page	
+31	subtitle	She thought about who wrote this and why they wrote this.	32	N	0	4	4	2 - Aster - lookingAtHerReflection	
+32	subtitle	And the vast and sorrowful nothingness both behind and in front of her.	0	Y	0	0	0	2 - Aster - lookingAtHerReflection	
+33	subtitle	She stepped past it. There are other things to care about other than this.	0	Y	0	0	0		
+34	subtitle	A tired-looking person seem to be sleeping on the coach soundly.	0	Y	0	0	0	5 - womanSleeping	
+35	subtitle	The screechy sound piked and it suddenly feels cold.	36	N	0	4	4	5 - tideComing	
+36	subtitle	Black tide is coming.	0	Y	0	0	0	5 - tideComingFurther	
+37	QTE	nudge	38	N	4	0	0		
+38	subtitle	Whatever lies in the dark spray is not going to do anyone anything good.	0	Y	0	0	0	5 - tideComingFurther	
+39	QTE	rock	40	N	4	0	0		
+40	subtitle	The woman did not wake up. Aster grabbed her by shoulder and rocked.	0	Y	0	0	0	5 - nudgeWoman	
+41	QTE	drag	42	N	4	0	0		
+42	subtitle	No. She got to go.	43	N	0	3	3	5 - shakeWoman	
+43	subtitle	There is something she could not think about anymore.	0	Y	0	0	0	5 - dragWoman	
+44	QTE	take	45	N	4	0	0		
+45	subtitle	She suddenly felt so very burdened with exhausion.	0	Y	0	0	0	5 - theCrossing	
+46	subtitle	She took it. As if stealing is a noble behaviour.	0	Y	0	0	0	6 - holdingCrossing	
+47	subtitle	She needed to leave and go far away, like a soul leaving a dead body.	0	Y	0	0	0	6 - sideAster	
+48	Myosotis	Aster.	49	N	2	2	2	6 - MyosotisFullScene	
+49	Aster	Excuse me?	51	N	1	5	5	6 - surprisedAster	
+50	subtitle	She saw the flower in his hair. Asters. Doesn't feel like a coincidence.	0	Y	0	0	0	6 - Myosotis	
+51	Myosotis	I see you already forgot me. Do you still keep the flowers I made for you?	53	N	2	3	3	6 - sendingFlowersBlur	
+52	subtitle	Then they must have met before.When was it? Where was it?	0	Y	0	0	0	6 - sendingFlowersBlur	
+53	Aster	...	54	N	1	4	4	6 - sendingFlowers	
+54	Myosotis	The  floriography of aster is "I won't forget you". Exactly the counterpart of...	55	N	2	1	1	6 - AsterFlowers	
+55	Aster	Myosotis sylvantica!	56	N	1	2	2	6 - MyosotisFlowers	
+56	Myosotis	Whose floriography is 'Forget me not'. I'm glad you still remember.	57	N	2	3	3	6 - Myosotis	
+57	Aster	Myosotis!	58	N	1	2	2	6 - handInHand	
+58	Myosotis	Aster. Like we hoped, flowers never forget.	0	Y	2	0	0	6 - Myosotis	
+59	Aster	You're not going together? The tide is coming.	60	N	1	3	3	6 - fourShoes	
+60	Myosotis	Don't worry about me, Aster.	61	N	2	2	2	6 - MyosotisFront	
+61	Myosotis	Ever since we met last time, I never doubt we were going to meet again.	62	N	2	3	3	6 - MyosotisFront	
+62	Myosotis	Forget me not Aster; in return, I won't forget you.	63	N	2	2	2	6 - AsterFront	
+63	Aster	I won't, Myosotis.	0	Y	1	0	0	6 - AsterFront	
+64	Myosotis	I see you already forgot me. Shame. I know flowers  aren't made to everlast, yet...	65	N	2	2	2	6 - MyosotisSigh	
+65	Aster	...	67	N	1	5	5	6 - sendingFlowersBlur	
+66	subtitle	She can't help but feel like losing something very important.	0	Y	0	0	0	6 - AsterFrontBlur	
+67	Myosotis	Aster, it's easy to get lost on this train.	68	N	2	2	2	6 - MyosotisSigh	
+68	Myosotis	If everything is meant to be broken, at least don't forget who you are.	0	Y	2	3	3	6 - MyosotisSigh	
+69	Myosotis	Farewell, Farewell. Next time we meet, we shall be strangers.	70	N	2	2	2	6 - fourShoes	
+70	Myosotis	We forget like water in the ocean.	71	N	2	3	3	6 - AsterFlowers	
+71	Myosotis	We forget like leaves in the forest.	0	Y	2	3	3	6 - MyosotisFlowers	
+72	Aster	Mr.Elden! 	73	N	1	2	2	7 - EldenHalfBody	
+73	Elden	...Aster. How are you? It's been very long.	74	N	3	2	2	7 - PuttingOffSmoke	
+74	Aster	As always. I think this note belong to your little poetry book?	75	N	1	2	2	7 - AsterGivingNote	
+75	Elden	Ah, indeed. This is a good one, definitely not something I want to lose.Thank you.	76	N	3	3	3	7 - EldenAndBook	
+76	Aster	No worries. Have you seen Nina recently?	77	N	1	4	4	6 - surprisedAster	
+77	Elden	I'm afraid I haven't. Why?	80	N	3	2	2	7 - EldenThinking	
+78	Aster	As always. Have you seen Nina recently?	79	N	1	4	4	6 - surprisedAster	
+79	Elden	I'm afraid I haven't. Why?	80	N	3	2	2	7 - EldenThinking	
+80	Aster	She left a note saying that she would be waiting for me in a coach ahead of the way.	81	N	1	3	3	6 - surprisedAster	
+81	Elden	Nina has always kept her promises, hasn't she?	82	N	3	1	1	7 - EldenThinkingClose	
+82	Aster	But...	83	N	1	2	2	7 - EldenEyes	
+83	Elden	You don't trust her?	84	N	3	1	1	7 - AsterEyes	
+84	Aster	For sure I trust her!	85	N	1	2	2	7 - AsterEyes	
+85	Elden	Then keep that faith for her. Always keep that faith for her.	0	Y	3	0	0	7 - EldenFace	
+86	Elden	Go ahead, girl. You are brave enough to do this.	0	Y	3	3	3	7 - goodbyeElden	
+87	subtitle	Another same carriage. Another empty place.	88	N	0	4	4	1 - Aster - facingCameraLowerFace	
+88	subtitle	There is nothing to see, nothing to care.	89	N	0	4	4	1 - Aster - facingCarriage	
+89	subtitle	Or is there?	0	Y	0	0	0	2 - Aster - lookingAtHerReflection	
+90	subtitle	Does everyone come and go because they want to do so?	91	N	0	5	5	8 - SilouetteMyosotis	
+91	subtitle	Is this train real or is it merely one exempt of the outside world?	0	Y	0	0	0	8 - SilouetteElden	
+92	subtitle	Outside, Nina once told her, is a cold place.	93	N	0	4	4	8 - SilouetteAll	
+93	subtitle	But somehow, she didn't feel warmer here.	0	Y	0	0	0	8 - SilouetteAster	
+94	subtitle	She found what she needs.	95	N	0	3	3	8 - keyHole	
+95	subtitle	A triangular dent that matches the winding key she has in the pocket.	0	Y	0	0	0	8 - keyHole	
+96	subtitle	She pushed it in, and turned the key.	97	N	0	4	4	8 - keyIn	
+97	subtitle	And heard a satisfying clicking sound.	103	N	0	4	4	8 - keyTurn	
+98	subtitle	she left it there.	99	N	0	3	3	8 - GoingOn	
+99	subtitle	So anyone who pushes at that door would have opened it.	100	N	0	5	5	8 - GoingOn	
+100	subtitle	That would be none of her business.	0	Y	0	0	0	8 - GoingOn	
+101	subtitle	Nina. Somewhere further down the way.	102	N	0	4	4	8 - SilouetteNina	
+102	subtitle	Aster has faith in Nina. Aster has to go. 	0	Y	0	0	0	1 - Aster - facingCarriage	
+103	subtitle	And she pushed.	104	N	0	3	3	8 - openTheDoor	
+104	subtitle	Wind howls and hurts her face.	105	N	0	3	3	8 - AsterColor	
+105	subtitle	She saw a tree right in the middle of wilderness, birds that cluster and scatter like snow.	106	N	0	7	7	8 - crows	
+106	subtitle	This is my last courting to life. She told herself.	107	N	0	6	6	8 - handHoldingOut	
+107	subtitle	And it is snowing, Aster has to go.	0	Y	0	0	0	8 - AsterColor	
+108	subtitle	She did not look behind; but she also felt an unfamiliar sorrow.	0	Y	0	0	0	6 - holdingCrossing	
+109	subtitle	She did not look behind; but she also felt an unfamiliar sorrow.	0	Y	0	0	0	6 - sideAster	
+110	subtitle	Myosotis Sylvantica. Forget-me-not of woodland.	0	Y	0	0	0	6 - MyosotisFlowers	
+111	subtitle	He smiled and held her hands in his. Like they used to do.	0	Y	0	0	0	6 - handInHand	
+112	QTE	Talk	113	N	4	0	0		
+113	subtitle	She would have to go on, for she has other things to do. But...	114	N	0	5	5	6 - fourShoes	
+114	subtitle		0	Y	0	0	0	6 - fourShoes	
+115	subtitle	The man put off his smoke with fingers.	0	Y	0	0	0	7 - PuttingOffSmoke	
+116	subtitle	Elden slowly rested his thumb and index finger on his chin.	0	Y	0	0	0	7 - EldenThinking	
+117	QTE	unlock	94	N	4	0	0			
+118	subtitle	She knew he always kept a anology book with him.	0	Y	0	0	0		
+119	Elden	You know, about the poem you gave back to me.	120	N	3	2	2	7 - EldenThinking	
+120	Elden	It was written for the poet's passed daughter, who was 14 month old when she died.	121	N	3	4	4	7 - EldenAndBook	
+121	Aster	...Even though it is a world ephemeral as dew, the memories lasts forever in itself.	122	N	1	2	2	2 - Aster - lookingAtHerReflection	
+122	Elden	That is one way of interpretion. I wish you good luck on your journey.	0	Y	3	4	4	7 - goodbyeElden	
+123	subtitle	They looked at each other in the eyes, like enraged beasts.	0	Y	0	0	0	7 - EldenThinking	
