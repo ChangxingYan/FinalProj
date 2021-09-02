@@ -36,7 +36,6 @@ public class TextWriter : MonoBehaviour
 
     private void Update()
     {
-       // Debug.Log(textWriterSingleList.Count);
         
         for (int i = 0; i< textWriterSingleList.Count; i++)
         {
@@ -69,7 +68,7 @@ public class TextWriter : MonoBehaviour
     public void AddWriter(TextMeshPro textBox, float timePerCharacter, bool invisibleCharacters)
         {
         TextWriterSingle textWriterSingle = new TextWriterSingle(textBox, timePerCharacter, invisibleCharacters);
-        textWriterSingleList.Add (textWriterSingle);
+        instance.textWriterSingleList.Add (textWriterSingle);
 
 
         }

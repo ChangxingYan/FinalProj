@@ -6,7 +6,7 @@ using TMPro;
 public class ChatBubble : MonoBehaviour
 {
 
-
+    
     public Vector2 padding = new Vector2(7f, 2f);
     public Vector3 offset = new Vector2(-0.5f, 0f);
     private SpriteRenderer BackgroundSpriteRenderer;
@@ -49,6 +49,6 @@ public class ChatBubble : MonoBehaviour
         Vector2 textSize = textMeshPro.GetRenderedValues(false);
         BackgroundSpriteRenderer.size = textSize + padding;
         BackgroundSpriteRenderer.transform.localPosition = new Vector3(BackgroundSpriteRenderer.size.x / 2f, 0f) + offset;
-        TextWriter.AddWriter_static(textMeshPro, 0.1f, true, true);
+        TextWriter.AddWriter_static(textMeshPro, 0.1f, true,true);
     }
 }

@@ -45,6 +45,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58bc28ab20fdb944bb12c9513de4c449, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  textWriter: {fileID: 3644879881656251792, guid: d6b1a6ab7d0fd164c84e32b12d11dff4,
+    type: 3}
   padding: {x: 0.8, y: 0.4}
   offset: {x: -0.4, y: 0, z: 0}
 --- !u!1 &5743111586680355989
